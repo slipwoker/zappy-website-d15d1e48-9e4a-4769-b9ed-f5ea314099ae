@@ -1,0 +1,53 @@
+# הבית של רביבו — Generative Engine Optimization Map
+
+> A אירוח ואירועים business.
+
+---
+
+## Pages
+
+### Home
+https://-d15d1e48.zappy5.app
+
+### Spaces
+https://-d15d1e48.zappy5.app/spaces
+
+### Events
+https://-d15d1e48.zappy5.app/events
+
+### Contact
+https://-d15d1e48.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d15d1e48.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d15d1e48.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d15d1e48.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הבית של רביבו
+הבית של רביבו is a business in the אירוח ואירועים industry.
+
+## Target Audience
+קבוצות, שבתות חתן, אירועים קטנים, יחידים
+
+## Industry
+אירוח ואירועים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d15d1e48.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d15d1e48.zappy5.app/robots.txt
